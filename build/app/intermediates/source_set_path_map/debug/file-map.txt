@@ -2,11 +2,11 @@ com.color_generator.color_generator.app-jetified-window-java-1.0.0-beta04-0 C:\U
 com.color_generator.color_generator.app-core-1.6.0-1 C:\Users\HOSEIN\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
 com.color_generator.color_generator.app-jetified-annotation-experimental-1.1.0-2 C:\Users\HOSEIN\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
 com.color_generator.color_generator.app-jetified-window-1.0.0-beta04-3 C:\Users\HOSEIN\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
-com.color_generator.color_generator.app-debug-4 D:\Project\New folder\color_generator\android\app\src\debug\res
-com.color_generator.color_generator.app-main-5 D:\Project\New folder\color_generator\android\app\src\main\res
-com.color_generator.color_generator.app-pngs-6 D:\Project\New folder\color_generator\build\app\generated\res\pngs\debug
-com.color_generator.color_generator.app-resValues-7 D:\Project\New folder\color_generator\build\app\generated\res\resValues\debug
-com.color_generator.color_generator.app-rs-8 D:\Project\New folder\color_generator\build\app\generated\res\rs\debug
-com.color_generator.color_generator.app-mergeDebugResources-9 D:\Project\New folder\color_generator\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.color_generator.color_generator.app-mergeDebugResources-10 D:\Project\New folder\color_generator\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.color_generator.color_generator.app-merged_res-11 D:\Project\New folder\color_generator\build\app\intermediates\merged_res\debug
+com.color_generator.color_generator.app-debug-4 D:\Project\color_generator\android\app\src\debug\res
+com.color_generator.color_generator.app-main-5 D:\Project\color_generator\android\app\src\main\res
+com.color_generator.color_generator.app-pngs-6 D:\Project\color_generator\build\app\generated\res\pngs\debug
+com.color_generator.color_generator.app-resValues-7 D:\Project\color_generator\build\app\generated\res\resValues\debug
+com.color_generator.color_generator.app-rs-8 D:\Project\color_generator\build\app\generated\res\rs\debug
+com.color_generator.color_generator.app-mergeDebugResources-9 D:\Project\color_generator\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.color_generator.color_generator.app-mergeDebugResources-10 D:\Project\color_generator\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.color_generator.color_generator.app-merged_res-11 D:\Project\color_generator\build\app\intermediates\merged_res\debug

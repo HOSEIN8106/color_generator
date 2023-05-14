@@ -38,11 +38,9 @@ class MainPage extends StatelessWidget {
               }
             },
             child: Container(
-              margin: EdgeInsets.all(AppDimens.mediumSpace),
               decoration: BoxDecoration(
                   color: !controller.isGradient.value ? controller.randomColor.value : null,
-                  gradient: controller.isGradient.value ? controller.gradient.value : null,
-                  borderRadius: BorderRadius.circular(AppDimens.mediumSpace)),
+                  gradient: controller.isGradient.value ? controller.gradient.value : null),
               child: Center(
                 child: Text(AppString.helloThere,
                     style: TextStyle(color: Colors.black, fontSize: AppDimens.xMediumFontSpace, fontWeight: FontWeight.bold)),

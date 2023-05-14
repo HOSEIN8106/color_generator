@@ -1,4 +1,4 @@
-#Sat May 13 23:26:23 IRDT 2023
-base.0=D\:\\Project\\New folder\\color_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun May 14 21:18:28 IRDT 2023
+base.0=D\:\\Project\\color_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

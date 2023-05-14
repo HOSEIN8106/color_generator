@@ -4,7 +4,7 @@
             "outputFile": "com.color_generator.color_generator.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Project\\New folder\\color_generator\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Project\\color_generator\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

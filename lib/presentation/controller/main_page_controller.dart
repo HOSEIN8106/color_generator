@@ -11,12 +11,11 @@ class MainPageController extends GetxController{
 
 
   void makeGradientColor(){
-    randomColor.value =Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
-    randomColor2.value =Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
-    gradient.value =  LinearGradient(colors: [
-      randomColor.value,
-      randomColor2.value
-    ]);
+    randomColor.value = Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
+    randomColor2.value = Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
+    if (randomColor.value != randomColor2.value) {
+      gradient.value = LinearGradient(colors: [randomColor.value, randomColor2.value]);
+    }
   }
   void makeSolidColor(){
     randomColor.value =Color((Random().nextDouble() * 0xFFFFFF).toInt()).withOpacity(1.0);
